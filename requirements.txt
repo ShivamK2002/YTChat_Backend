@@ -1,0 +1,31 @@
+# YouTube transcript
+youtube-transcript-api
+
+# LangChain core and community modules
+langchain
+langchain-community
+langchain-openai
+langchain-huggingface
+
+# Embeddings and transformers
+transformers
+huggingface-hub
+sentence-transformers
+
+# Vector store
+faiss-cpu
+
+# Tokenizer for OpenAI / LangChain
+tiktoken
+
+# Environment variables
+python-dotenv
+
+# Web / API
+fastapi
+pydantic
+uvicorn
+
+# Optional for Google Generative AI (can remove if using local LLM)
+langchain-google-genai
+google-generativeai
